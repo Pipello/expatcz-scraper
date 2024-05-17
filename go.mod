@@ -1,4 +1,4 @@
-module expatcz-scraper
+module github.com/Pipello/expatcz-scraper
 
 go 1.22.3
 
