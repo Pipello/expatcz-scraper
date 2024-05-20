@@ -1,7 +1,5 @@
 module github.com/Pipello/expatcz-scraper
 
-go 1.22
-
-toolchain go1.22.3
+go 1.21
 
 require golang.org/x/net v0.25.0
